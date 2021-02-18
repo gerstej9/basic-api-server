@@ -1,14 +1,14 @@
 # basic-api-server
 
 ## Github PR
-* https://github.com/gerstej9/basic-express-server/pull/1
+* https://github.com/gerstej9/basic-api-server/pull/1
+* 
 
 ## Github Actions
 * No .yml or instruction on specific workflow test provided
 
 ## Heroku URLs
-* URL: https://jamesgers-basic-express-server.herokuapp.com
-* Test: https://jamesgers-basic-express-server.herokuapp.com/person?name=James
+* URL: https://jamesgerst-basic-api-server.herokuapp.com/
 
 ## UML
 ![](./assets/UML_Basic_Api_Server.jpg)
