@@ -2,10 +2,10 @@
 
 ## Github PR
 * https://github.com/gerstej9/basic-api-server/pull/1
-* 
+* https://github.com/gerstej9/basic-api-server/pull/2
 
 ## Github Actions
-* No .yml or instruction on specific workflow test provided
+https://github.com/gerstej9/basic-api-server/actions
 
 ## Heroku URLs
 * URL: https://jamesgerst-basic-api-server.herokuapp.com/
